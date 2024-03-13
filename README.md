@@ -1,26 +1,33 @@
-## FIrst Problem [PW2.01.018]
+## Problem [PW2.01.020]
 
 ```
 
 
 
-Majority Element
 
-Given an array nums of size n, return the majority element.
+Find All Duplicates in an Array
 
-The majority element is the element that appears more than ⌊n / 2⌋ times.
-You may assume that the majority element always exists in the array.
+Given an integer array nums of length n where all the integers of nums
+are in the range [1, n] and each integer appears once or twice,
+return an array of all the integers that appears twice.
+
+You must write an algorithm that runs in O(n) time and uses only constant extra space.
 
 
 
 Example 1:
 
-Input: nums = [3,2,3]
-Output: 3
+Input: nums = [4,3,2,7,8,2,3,1]
+Output: [2,3]
 Example 2:
 
-Input: nums = [2,2,1,1,1,2,2]
-Output: 2
+Input: nums = [1,1,2]
+Output: [1]
+Example 3:
+
+Input: nums = [1]
+Output: []
+
 
 
 
