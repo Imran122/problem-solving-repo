@@ -1,7 +1,5 @@
 ## FIrst Problem [PW2.01.016]
 
-First, run the development server:
-
 ```
 Remove Duplicates from Sorted Array
 
